@@ -1,5 +1,6 @@
 # Github's default gitignore for Python
-
+course_focus_plan.md
+# syllabus/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
